@@ -1,0 +1,14 @@
+.card-header{
+    background-color: rgb(192, 72, 176);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.jumbotron{
+    background-color: rgb(202, 133, 133);
+}
+
+.btn{
+    background-color: rgb(192, 72, 176);
+}
